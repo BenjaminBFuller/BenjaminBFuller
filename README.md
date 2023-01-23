@@ -40,5 +40,9 @@
 
 <br/>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=282828&right_color=d79921) 
+<br/>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=#282828&right_color=#d79921) 
+
+<br/>
 
