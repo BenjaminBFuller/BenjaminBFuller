@@ -38,5 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
 </a>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=282828&right_color=#d79921) 
 <br/>
 
