@@ -31,6 +31,7 @@
   ![PyCharm](https://img.shields.io/badge/PyCharm-333333?style=flat&logo=pycharm&logoColor=green)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
 
 <br/>
 
