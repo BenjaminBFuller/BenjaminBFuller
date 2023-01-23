@@ -1,6 +1,6 @@
 <h2> Hello there! I'm Ben.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me... </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software, and messing with data.
 - 🎓 &nbsp; Studied Computer Science and Geology at California State University of Fullerton.
