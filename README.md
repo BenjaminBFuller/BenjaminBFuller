@@ -32,14 +32,16 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-<br/>
+<br>
 
 <a href="https://github.com/BenjaminBFuller">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
 </a>
 
 <br/>
 
-<br/>
+<br>
+
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=282828&right_color=d79921) 
 <br/>
