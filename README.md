@@ -43,5 +43,5 @@
 
 <br>
 
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=darkgray&right_color=yellow) 
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=dimgray&right_color=goldenrod) 
 <br/>
