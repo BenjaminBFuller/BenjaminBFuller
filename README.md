@@ -36,7 +36,7 @@
 
 <a href="https://github.com/BenjaminBFuller">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
 </a>
 
 <br/>
