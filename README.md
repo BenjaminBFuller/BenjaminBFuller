@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, developing software, and messing with data.
 - 🎓 &nbsp; Studied Computer Science and Geology at California State University, Fullerton.
-- 💼 &nbsp; Working on personal software, data analytics, and GIS projects.
+- 💼 &nbsp; Working on personal software engineering, data analytics, and GIS projects.
 - 🌱 &nbsp; Learning more about Systems Design, Artificial Intelligence, and all things SCIENCE!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
