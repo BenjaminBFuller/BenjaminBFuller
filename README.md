@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me... </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software, and messing with data.
+- 🤔 &nbsp; Exploring data sets, writing scripts, and developing software.
 - 🎓 &nbsp; Studied Computer Science and Geology at California State University, Fullerton.
-- 💼 &nbsp; Working on personal software engineering, data analytics, and GIS projects.
-- 🌱 &nbsp; Learning more about Systems Design, Artificial Intelligence, and all things SCIENCE!
+- 💼 &nbsp; Working on personal data analytics, GIS, and software engineering projects.
+- 🌱 &nbsp; Learning more about all things science and coding!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
