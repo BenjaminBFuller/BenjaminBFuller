@@ -41,8 +41,3 @@
 </a>
 
 <br/>
-
-<br>
-
-  ![visitor badge](https://visitor-badge-sigma-five.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=dimgray&right_color=goldenrod) 
-<br/>
