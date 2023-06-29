@@ -37,12 +37,12 @@
 
 <a href="https://github.com/BenjaminBFuller">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenjaminBFuller&theme=gruvbox&layout=compact" />
 </a>
 
 <br/>
 
 <br>
 
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=dimgray&right_color=goldenrod) 
+  ![visitor badge](https://visitor-badge-sigma-five.glitch.me/badge?page_id=BenjaminBFuller.visitor-badge&left_color=dimgray&right_color=goldenrod) 
 <br/>
