@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring data sets, writing scripts, and developing software.
 - 🎓 &nbsp; B.S. Computer Science, Minor in Geology from California State University, Fullerton.
 - 💼 &nbsp; Working on personal data analytics, machine learning, and software engineering projects.
-- 🌱 &nbsp; Learning more about all things science, stats, and programming!
+- 🌱 &nbsp; Learning more about all things science, statistics, and programming!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
